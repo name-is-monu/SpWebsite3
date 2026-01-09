@@ -1,0 +1,1 @@
+Thi is JavaScript file for my website
